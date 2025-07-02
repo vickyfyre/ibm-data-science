@@ -44,9 +44,11 @@ This notebook provides an overview of the tools and components commonly used by 
 ## Sample Code
 
 #Multiply then add integers
+
 (3 * 4) + 5
 
 #Convert minutes to hours
+
 200 / 60
 
 
@@ -59,4 +61,4 @@ This notebook provides an overview of the tools and components commonly used by 
 
 ## Author
 
-[Your Name Here]
+Vignesh S
