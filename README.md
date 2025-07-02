@@ -1,7 +1,5 @@
 # IBM Data Science: Data Science Tools and Ecosystem
 
-# Data Science Tools and Ecosystem
-
 This repository contains a Jupyter Notebook that explores the essential tools, languages, and libraries used in the Data Science ecosystem. It is designed as part of a learning exercise to demonstrate basic Markdown formatting, Python arithmetic operations, and the organization of data science resources.
 
 ## Table of Contents
@@ -45,10 +43,10 @@ This notebook provides an overview of the tools and components commonly used by 
 
 ## Sample Code
 
-Multiply then add integers
+#Multiply then add integers
 (3 * 4) + 5
 
-Convert minutes to hours
+#Convert minutes to hours
 200 / 60
 
 
