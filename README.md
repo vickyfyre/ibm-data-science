@@ -1,64 +1,53 @@
-# IBM Data Science: Data Science Tools and Ecosystem
+# IBM Data Science Professional Certificate
 
-This repository contains a Jupyter Notebook that explores the essential tools, languages, and libraries used in the Data Science ecosystem. It is designed as part of a learning exercise to demonstrate basic Markdown formatting, Python arithmetic operations, and the organization of data science resources.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt="IBM logo" />
+</p>
 
-## Table of Contents
+This repository contains coursework and project work completed as part of the **IBM Data Science Professional Certificate** on Coursera.  
+This 10-course program provides a comprehensive introduction to data science and analytics using Python, SQL, and various data science tools.  
+It emphasizes hands-on practice through labs and real-world projects, including a capstone project.
 
-- [Introduction](#introduction)
-- [Languages Used in Data Science](#languages-used-in-data-science)
-- [Popular Data Science Libraries](#popular-data-science-libraries)
-- [Data Science Tools](#data-science-tools)
-- [Sample Code](#sample-code)
-- [Objectives](#objectives)
-- [Author](#author)
+---
 
-## Introduction
+## Certificate Curriculum
 
-This notebook provides an overview of the tools and components commonly used by Data Scientists. It includes examples of Markdown formatting, code cells, and tables to help beginners understand how to structure a data science notebook.
+1. What is Data Science?  
+2. Tools for Data Science  
+3. Data Science Methodology  
+4. Python for Data Science, AI & Development  
+5. Python Project for Data Science  
+6. Databases and SQL for Data Science with Python  
+7. Data Analysis with Python  
+8. Data Visualization with Python  
+9. Machine Learning with Python  
+10. Applied Data Science Capstone
 
-## Languages Used in Data Science
+---
 
-- Python
-- R
-- SQL
-- Julia
-- Scala
+## Key Skills Acquired
 
-## Popular Data Science Libraries
+- **Programming with Python**  
+  Proficient in using Python for data wrangling, automation, and building data workflows using libraries such as Pandas, NumPy, and requests.
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- TensorFlow
+- **Data Analysis & Exploration**  
+  Ability to perform statistical analysis, clean and transform data, and derive insights using real-world datasets.
 
-## Data Science Tools
+- **SQL & Relational Databases**  
+  Skilled in writing complex SQL queries to retrieve, filter, and join data from multiple tables using IBM Db2 and other relational databases.
 
-| Tool              |
-|-------------------|
-| Jupyter Notebook  |
-| RStudio           |
-| Apache Zeppelin   |
-| Spyder            |
+- **Data Visualization**  
+  Experience creating meaningful visualizations using Matplotlib, Seaborn, and Plotly to communicate insights effectively.
 
-## Sample Code
+- **Machine Learning**  
+  Understanding of supervised and unsupervised learning techniques, model evaluation, and implementation using Scikit-learn.
 
-#Multiply then add integers
+- **Tools & Platforms**  
+  Hands-on experience with Jupyter Notebooks, IBM Watson Studio, Git, GitHub, and cloud-based data science workflows.
 
-(3 * 4) + 5
+---
 
-#Convert minutes to hours
+## Projects and Assignments
 
-200 / 60
-
-
-## Objectives
-
-- List popular languages for Data Science
-- List commonly used libraries by Data Scientists
-- Demonstrate arithmetic expressions in Python
-- Show how to convert minutes to hours using Python code
-
-## Author
-
-Vignesh S
+- **Hands-on Labs**: Data exploration, visualization, and model development  
+- **Capstone Project**: End-to-end data science solution from data acquisition to model deployment
