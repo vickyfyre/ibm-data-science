@@ -1,9 +1,7 @@
 # Import required libraries
 import pandas as pd
 import dash
-import dash_html_components as html
-import dash_core_components as dcc
-from dash.dependencies import Input, Output
+from dash import dcc, html, Input, Output
 import plotly.express as px
 
 # Read the airline data into pandas dataframe
@@ -103,4 +101,4 @@ def get_payload_chart(launch_site, payload_mass):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server()
+    app.run()
